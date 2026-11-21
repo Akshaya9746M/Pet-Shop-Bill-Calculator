@@ -1,4 +1,4 @@
-# 🐾 Akshaya Pet Shop Billing System
+# 🐾 Pet Shop Billing System
 
 ## 📌 Project Overview
 Akshaya Pet Shop Billing System is a simple Python-based console application designed to manage pet purchases and calculate bills automatically. Customers can select pets from different categories, choose breeds, enter quantities, and generate the final bill.
@@ -63,3 +63,11 @@ The main objective of this project is to apply basic Python programming concepts
 
 ## 👩‍💻 Author
 Developed as a Python Programming Project.
+
+
+## ▶️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Akshaya9746M/pet.shop.bill.calculator.git
